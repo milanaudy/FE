@@ -1,3 +1,4 @@
+
 h4 {
     color: darkred;
 }
@@ -44,15 +45,23 @@ body {
 a {
     color: rgb(57, 57, 57);
 }
+nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    margin-right: 15px;
+    height: 2em;
+}
 
 
+nav a {
+    font-size: 16px;
+    text-decoration: none;
+    transition: font-size 0.3s ease;
+}
 
-
-
-
-
-
-
-
-
-
+nav a:hover {
+    font-size: 20px;
+    color: darkmagenta;
+}
