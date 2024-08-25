@@ -1,0 +1,58 @@
+h4 {
+    color: darkred;
+}
+
+article {
+    border: 2px solid darkviolet;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.non-article-heading {
+    color: blue;
+}
+
+.footer-image {
+    width: 20%;
+}
+
+.article-image {
+    width: 20ex;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+
+footer {
+text-align: center;
+background-color: aliceblue;
+padding: 10px;
+}
+
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+body {
+    margin: 0;
+}
+
+a {
+    color: rgb(57, 57, 57);
+}
+
+
+
+
+
+
+
+
+
+
+
+
